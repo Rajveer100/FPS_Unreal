@@ -1,0 +1,8 @@
+CompileFlags:
+  Remove:
+    - -fmodules
+    - -fimplicit-modules
+    - -fimplicit-module-maps
+    - -fmodules-ts
+    - -fcxx-modules
+    - -fbuiltin-module-map
